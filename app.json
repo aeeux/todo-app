@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "a simple Todo app!",
+    "githubUrl": "https://github.com/aeeux/todo-app"
   }
 }
